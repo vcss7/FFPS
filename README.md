@@ -1,7 +1,7 @@
 # ffps
 Firefox Profiles
 
-Standard profile made with (ffprofile)[https://ffprofile.com]
+Standard profile made with [ffprofile](https://ffprofile.com).
 
 ## Installation
 
