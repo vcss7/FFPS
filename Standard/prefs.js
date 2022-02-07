@@ -81,7 +81,7 @@ user_pref("extensions.shield-recipe-client.enabled", false);
 user_pref("extensions.webservice.discoverURL", "");
 user_pref("font.size.variable.x-western", 15); 
 user_pref("general.useragent.override", "Mozilla/5.0 (X11; Linux x86_64; rv:94.0) Gecko/20100101 Firefox/94.0");
-user_pref("keyword.enabled", false);
+user_pref("keyword.enabled", true);
 user_pref("media.autoplay.default", 1);
 user_pref("media.autoplay.enabled", false);
 user_pref("media.eme.enabled", false);
